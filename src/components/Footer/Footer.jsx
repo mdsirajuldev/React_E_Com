@@ -17,8 +17,8 @@ function Footer() {
       'footer-container dark-footer-container'
     }>
       <div className='social-icon-container'>
-        <Link to="https://github.com/1uckyswish?tab=repositories"> <FaGithubSquare className='social-icons'/></Link>
-        <Link to="https://www.linkedin.com/in/noel-guillen-blas-b63353257/?trk=people-guest_people_search-card"><FaLinkedin className='social-icons'/></Link>
+        <Link to="https://github.com/mdsirajuldev"> <FaGithubSquare className='social-icons'/></Link>
+        <Link to="https://www.linkedin.com/in/md-sirajul-islam-dev7/"><FaLinkedin className='social-icons'/></Link>
       </div>
       <Link to='/contactUs'>Contact Us</Link>
     </div>

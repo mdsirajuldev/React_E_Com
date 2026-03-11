@@ -28,7 +28,7 @@ function App() {
         <div className='app-container'>
         <div className="loader-container">
           <RingLoader size={90} color={'#d6368e'} loading={loading} />
-          <div className="loading-text">Hang tight, magic is happening!</div>
+          <div className="loading-text">Loading Page</div>
         </div>
         </div>
       ) : (
